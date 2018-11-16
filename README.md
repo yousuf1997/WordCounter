@@ -4,6 +4,7 @@ This repo contains simple word counter, which will read file and outputs the inf
 ![Screen Shot of the Output](https://github.com/yousuf1997/WordCounter/blob/master/output.png)
 
 # Documentaion
+  `WordCounter(string filename)` is a constructor that takes the name of the file. <br /> 
   `getNumberOfWords()` returns (`long`) the number of words in the file. <br />
   `getNumberOfChars()` returns (`long`) the number of characters in the file excluding the space character. <br />
   `getNumberOfCharsWithSpace()` returns (`long`) the number of characters in the file including the space character. <br />
